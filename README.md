@@ -4,3 +4,7 @@ This Python tutorial is based on the codewithmosh.com by a friendly instructor c
 and sharng to everyone who is interest to learn Python.
 
 Course link: https://codewithmosh.com/p/python-programming-course-beginners
+
+## Structure
+
+HelloWorld - First Python Program
