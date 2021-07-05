@@ -19,6 +19,7 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
   - tutorial-7: OTW
   - tutorial-8: OTW
   - tutorial-9: OTW
+- <b>Control Flow</b>
   - tutorial-10: OTW
   - tutorial-11: OTW
   - tutorial-12: OTW
