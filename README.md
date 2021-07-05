@@ -13,7 +13,7 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
 - <b>Primitive types</b>
   - tutorial-2: Variables / Variable Names
   - tutorial-3: String
-  - tutorial-4: OTW
+  - tutorial-4: Escape Sequences
   - tutorial-5: OTW
   - tutorial-6: OTW
   - tutorial-7: OTW
