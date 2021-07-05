@@ -14,12 +14,12 @@ print(course[0:])
 print(course[:3])
 print(course[:])
 
-
-# triple quotes (Optional)
-message = """
- Hi John,
-
- This is Mosh from codewithmosh.com
-
- Blah blah blah
-"""
+# OUTPUT
+#
+# 18
+# P
+# g
+# Pyt
+# Python Programming
+# Pyt
+# Python Programming
