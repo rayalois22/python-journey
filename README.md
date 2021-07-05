@@ -9,3 +9,9 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
 
 tutorial-1: First Python Program, Hello World
 tutorial-2: OTW
+
+## References
+
+Some useful references:
+
+https://stackoverflow.com/questions/62473201/how-do-i-enable-pylint-in-vscode
