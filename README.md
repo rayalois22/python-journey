@@ -11,8 +11,8 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
 - Getting started
   - tutorial-1: First Python Program, Hello World
 - PRIMITIVE TYPES
-  - tutorial-2: Variables
-  - tutorial-3: Variable Names
+  - tutorial-2: Variables / Variable Names
+  - tutorial-3: String
 
 ## References
 
