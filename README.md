@@ -7,4 +7,5 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
 
 ## Structure
 
-HelloWorld - First Python Program
+tutorial-1: First Python Program, Hello World
+tutorial-2: OTW
