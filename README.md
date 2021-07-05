@@ -8,8 +8,11 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
 ## Structure
 
 *The source code are available at the branches and here's the structure to guide you the tutorial
-- tutorial-1: First Python Program, Hello World
-- tutorial-2: OTW
+- Getting started
+  - tutorial-1: First Python Program, Hello World
+- PRIMITIVE TYPES
+  - tutorial-2: Variables
+  - tutorial-3: Variable Names
 
 ## References
 
