@@ -20,6 +20,11 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
   - tutorial-8: OTW
   - tutorial-9: OTW
   - tutorial-10: OTW
+  - tutorial-11: OTW
+  - tutorial-12: OTW
+  - tutorial-13: OTW
+  - tutorial-14: OTW
+  - tutorial-15: OTW
 
 ## References
 
