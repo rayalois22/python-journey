@@ -16,9 +16,9 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
   - tutorial-4: Escape Sequences
   - tutorial-5: Formatted Strings
   - tutorial-6: String Methods
-  - tutorial-7: OTW
-  - tutorial-8: OTW
-  - tutorial-9: OTW
+  - tutorial-7: Numbers
+  - tutorial-8: Working with Numbers
+  - tutorial-9: Type Conversion
 - <b>Control Flow</b>
   - tutorial-10: OTW
   - tutorial-11: OTW
