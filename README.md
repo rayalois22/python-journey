@@ -14,7 +14,7 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
   - tutorial-2: Variables / Variable Names
   - tutorial-3: String
   - tutorial-4: Escape Sequences
-  - tutorial-5: OTW
+  - tutorial-5: Formatted Strings
   - tutorial-6: OTW
   - tutorial-7: OTW
   - tutorial-8: OTW
