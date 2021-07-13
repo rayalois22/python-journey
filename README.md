@@ -15,7 +15,7 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
   - tutorial-3: String
   - tutorial-4: Escape Sequences
   - tutorial-5: Formatted Strings
-  - tutorial-6: OTW
+  - tutorial-6: String Methods
   - tutorial-7: OTW
   - tutorial-8: OTW
   - tutorial-9: OTW
