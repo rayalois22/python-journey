@@ -37,5 +37,6 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
 
 Some useful references:
 - https://www.python.org/
+- https://docs.python.org/3/library/math.html
 - https://stackoverflow.com/questions/62473201/how-do-i-enable-pylint-in-vscode
 - https://code.visualstudio.com/docs/python/linting
