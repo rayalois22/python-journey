@@ -20,12 +20,19 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
   - tutorial-8: Working with Numbers
   - tutorial-9: Type Conversion
 - <b>Control Flow</b>
-  - tutorial-10: OTW
-  - tutorial-11: OTW
-  - tutorial-12: OTW
-  - tutorial-13: OTW
-  - tutorial-14: OTW
-  - tutorial-15: OTW
+  - tutorial-10: Comparison Operators
+  - tutorial-11: Conditional Statements
+  - tutorial-12: Ternary Operator
+  - tutorial-13: Logical Operators
+  - tutorial-14: Short-circuit Evaluation
+  - tutorial-15: Chaining Comparison Operators
+  - tutorial-16: For Loops
+  - tutorial-17: For..Else
+  - tutorial-18: Nested Loops
+  - tutorial-19: Iterables
+  - tutorial-20: While Loops
+  - tutorial-21: Infinite Loops 
+- <b>Functions</b>
 
 ## References
 
