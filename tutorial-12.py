@@ -12,6 +12,7 @@ if (high_income or good_credit) and not student:
 else:
     print("Not Eligible")
 
+
 # and operator
 #
 # high_income = False
