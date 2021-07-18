@@ -34,6 +34,15 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
   - tutorial-19: While Loops
   - tutorial-20: Infinite Loops 
 - <b>Functions</b>
+  - tutorial-21: Defining Functions
+  - tutorial-22: Arguments
+  - tutorial-23: Types of Functions
+  - tutorial-24: Keyword Arguments
+  - tutorial-25: Default Arguments
+  - tutorial-26: xargs
+  - tutorial-27: xxargs
+  - tutorial-28: Scope
+  - tutorial-29: Debugging
 
 ## References
 
