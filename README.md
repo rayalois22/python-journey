@@ -8,6 +8,8 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
 ## Structure
 
 *The source code are available at the branches and here's the structure to guide you the tutorial
+- main: README.md which including some guidelines and structures
+- exercises: some revision programming questions
 - <b>Getting started</b>
   - tutorial-1: First Python Program, Hello World
 - <b>Primitive types</b>
