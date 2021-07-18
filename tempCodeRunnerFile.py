@@ -1,1 +1,1 @@
-    number //= 2
+    # numbers += numbers
