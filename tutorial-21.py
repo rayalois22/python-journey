@@ -5,7 +5,7 @@
 # - meaningful,
 # - descriptive,
 # - use lower case letterr to name the function
-# -use an underscore to separate multiple words
+# - use an underscore to separate multiple words
 
 def greet():
     print("Hi there")
