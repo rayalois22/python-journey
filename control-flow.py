@@ -19,7 +19,7 @@ for numbers in range(1, 10):
 print(f"We have {count} even numbers")
 
 
-# heckerio's answer
+# hezagon's answer
 #
 # for numbers in range(1, 10):
 #     print(numbers * 2)
