@@ -5,7 +5,7 @@
 # make sure that it's
 # - meaningful,
 # - descriptive,
-# - use lower case letterr to name the function
+# - use lower case letter to name the function
 # - use an underscore to separate multiple words
 
 def greet():
