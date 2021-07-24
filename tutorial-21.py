@@ -1,5 +1,6 @@
 # defining function
 
+# def STANDS FOR define
 # ways to define a variable inside the function
 # make sure that it's
 # - meaningful,
