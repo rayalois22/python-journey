@@ -1,6 +1,6 @@
-# Python Programming For Beginner (Source Code)
+# Python Programming For Beginner
 
-This Python tutorial is based on the codewithmosh.com by a friendly instructor called Mosh Hamedani. I will upload the full python tutorial source code for my learning purpose 
+This Python tutorial is based on the codewithmosh.com by a friendly instructor called Mosh Hamedani. I will upload the full python tutorial <b>source code</b> for my learning purpose 
 and sharing to everyone who is interest to learn Python.
 
 Course link: https://codewithmosh.com/p/python-programming-course-beginners
@@ -43,7 +43,17 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
   - tutorial-27: xxargs
   - tutorial-28: Scope
   - tutorial-29: Debugging
-
+- <b>Data Structures</b>
+  - tutorial-30: 
+  - tutorial-31: 
+  - tutorial-32: 
+  - tutorial-33: 
+  - tutorial-34:
+  - tutorial-35: 
+  - tutorial-36: 
+  - tutorial-37: 
+  - tutorial-38: 
+ 
 ## References
 
 Some useful references:
