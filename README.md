@@ -45,16 +45,30 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
   - tutorial-29: Debugging
   - tutorial-30: VSCode Coding Tricks - KEYBOARD SHORTCUTS
 - <b>Data Structures</b>
-  - tutorial-31: 
-  - tutorial-32: 
-  - tutorial-33: 
-  - tutorial-34: 
-  - tutorial-35:
-  - tutorial-36: 
-  - tutorial-37: 
-  - tutorial-38: 
-  - tutorial-39: 
- 
+  - tutorial-31: Lists
+  - tutorial-32: Accessing Items
+  - tutorial-33: List Unpacking
+  - tutorial-34: Looping over Lists
+  - tutorial-35: Adding or Removing Items
+  - tutorial-36: Finding Items
+  - tutorial-37: Sorting Lists
+  - tutorial-38: Lambda Functions
+  - tutorial-39: Map Function
+  - tutorial-40: Filter Function
+  - tutorial-41: List Comprehensions
+  - tutorial-42: Zip Function
+  - tutorial-43: Stacks
+  - tutorial-44: Queues
+  - tutorial-45: Tuples
+  - tutorial-46: Swapping Variables
+  - tutorial-47: Arrays
+  - tutorial-48: Sets
+  - tutorial-49: Dictionaries
+  - tutorial-50: Dictionary Comprehensions
+  - tutorial-51: Generator Expressions
+  - tutorial-52: Unpacking Operator
+
+
 ## References
 
 Some useful references:
