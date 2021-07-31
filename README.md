@@ -1,7 +1,6 @@
-# Python Programming For Beginner
+# Complete Python Mastery
 
-This Python tutorial is based on the codewithmosh.com by a friendly instructor called Mosh Hamedani. I will upload the full python tutorial <b>source code</b> for my learning purpose 
-and sharing to everyone who is interest to learn Python.
+This Python tutorial is based on the codewithmosh.com by a friendly instructor called Mosh Hamedani. I will upload the full python tutorial <b>source code</b> for my learning purpose and sharing to everyone who is interest to learn Python.
 
 Course link: https://codewithmosh.com/p/python-programming-course-beginners
 
