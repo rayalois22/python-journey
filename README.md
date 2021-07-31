@@ -43,16 +43,17 @@ Course link: https://codewithmosh.com/p/python-programming-course-beginners
   - tutorial-27: xxargs
   - tutorial-28: Scope
   - tutorial-29: Debugging
+  - tutorial-30: VSCode Coding Tricks - KEYBOARD SHORTCUTS
 - <b>Data Structures</b>
-  - tutorial-30: 
   - tutorial-31: 
   - tutorial-32: 
   - tutorial-33: 
-  - tutorial-34:
-  - tutorial-35: 
+  - tutorial-34: 
+  - tutorial-35:
   - tutorial-36: 
   - tutorial-37: 
   - tutorial-38: 
+  - tutorial-39: 
  
 ## References
 
