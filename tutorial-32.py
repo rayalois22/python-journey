@@ -7,6 +7,8 @@ print(letters[:3])
 print(letters[0:])
 print(letters[:])
 print(letters)
+print(letters[::2])
+
 
 # OUTPUT
 #
@@ -15,6 +17,7 @@ print(letters)
 # ['A', 'b', 'c', 'd']
 # ['A', 'b', 'c', 'd']
 # ['A', 'b', 'c', 'd']
+# ['A', 'c']
 
 numbers = list(range(20))
 print(numbers[::2])
