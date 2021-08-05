@@ -40,3 +40,13 @@ print(chars)
 # OUTPUT
 #
 # ['H', 'e', 'l', 'l', 'o', ' ', 'W', 'o', 'r', 'l', 'd']
+
+
+# CHARACTERS
+
+chars = list("Hello World")
+print(len(chars))
+
+# OUTPUT
+#
+# 11
