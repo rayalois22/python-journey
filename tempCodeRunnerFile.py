@@ -1,1 +1,1 @@
-print(letters)
+print(letters.index("a"))
