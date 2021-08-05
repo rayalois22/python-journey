@@ -1,3 +1,2 @@
-first = numbers[0]
-# second = numbers[1]
-# third = numbers[2]
+items = [0, "a"]
+# index, letter = items
